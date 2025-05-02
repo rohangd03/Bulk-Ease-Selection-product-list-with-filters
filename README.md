@@ -8,3 +8,6 @@ Create a Product List Page with Filters. <br>
   ○ Use dummy product data (e.g., name, price, and category). <br>
   ○ Add filter buttons for categories (e.g., "Electronics," "Clothing"). <br>
   ○ Display filtered products dynamically on button click.
+
+Website link - 
+https://rohangd03.github.io/Bulk-Ease-Selection-product-list-with-filters/
